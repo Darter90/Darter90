@@ -1,16 +1,44 @@
-### Hi there 👋
+<img src="./DALL·E 2023-03-31 18.30.34 - Pixel art forest landscape.png" alt="Darter90's GitHub profile" width="1920" height="270"/>
+
+Welcome on my GitHub profile page; I'm Carosi Jacopo, but since the Internet exists I've been <strong>Darter90</strong>.</br>
+
+I'm an Italian Front-end developer, a passionate geek and supporter of OpenSource and Free Software :penguin:.</br>
+
+In my spare time I practice martial arts :martial_arts_uniform:; I'm a longtime gamer:video_game: and an avid book reader :book:. And I like pizza:pizza:, of course.</br>
+
+Many says that I'm like a panda... so am I :panda_face: .
+
+---
+
+<div align=center>
+
+<h2>My Tools<h2>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+
+</div>
+
+---
+
+<div align=center>
+
+<h2>My Showcase</h2>
+
+mettere link qui
+
+</div>
+
 
 <!--
 **Darter90/Darter90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+icons : https://github.com/Ileriayo/markdown-badges
+stats : https://github.com/anuraghazra/github-readme-stats
 -->
