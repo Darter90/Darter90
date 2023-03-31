@@ -12,7 +12,7 @@ Many says that I'm like a panda... so am I :panda_face: .
 
 <div align=center>
 
-<h2>My Tools<h2>
+<h2 align=center>My Tools<h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -27,15 +27,12 @@ Many says that I'm like a panda... so am I :panda_face: .
 </div>
 
 ---
-
 <div align=center>
-
 <h2>My Showcase</h2>
-
-mettere link qui
-
 </div>
-
+  
+- ![The Margaritas](https://n7m3v.csb.app/)</li>
+- ![New Retrowave MoodBoard](https://3ydiv.csb.app/)
 
 <!--
 **Darter90/Darter90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
