@@ -1,6 +1,6 @@
-<img src="./DALL·E 2023-03-31 18.30.34 - Pixel art forest landscape.png" alt="Darter90's GitHub profile" width="1920" height="270"/>
+<img src="DALL·E 2023-03-31 18.30.34 - Pixel art forest landscape.png" alt="Darter90/Jacopo Carosi's GitHub/Gitlab Hero image" width="1920" height="270"/>
 
-Welcome on my GitHub profile page; I'm Carosi Jacopo, but since the Internet exists I've been <strong>Darter90</strong>.</br>
+Welcome on my profile page; I'm Carosi Jacopo, but since the Internet exists I've been <strong>Darter90</strong>.</br>
 
 I'm an Italian Front-end developer, a passionate geek and supporter of OpenSource and Free Software :penguin:.</br>
 
