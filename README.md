@@ -4,7 +4,7 @@ Welcome to my profile page; I'm Carosi Jacopo, but since the Internet exists I'v
 
 I'm an Italian Front-end developer, a passionate geek and supporter of OpenSource and Free Software :penguin:.</br>
 
-In my spare time I practice martial arts :martial_arts_uniform:; I'm a longtime gamer:video_game: and an avid book reader :book:. And I like pizza:pizza:, of course.</br>
+In my spare time I practice martial arts :martial_arts_uniform:; I'm a longtime gamer :video_game: and an avid book reader :book:. And I like pizza :pizza:, of course.</br>
 
 Many says that I'm like a panda... so am I :panda_face: .
 
