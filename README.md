@@ -31,8 +31,8 @@ Many says that I'm like a panda... so am I :panda_face: .
 <h2>My Showcase</h2>
 </div>
   
-- ![The Margaritas](https://n7m3v.csb.app/)</li>
-- ![New Retrowave MoodBoard](https://3ydiv.csb.app/)
+- <a href="https://the-margaritas.vercel.app/">The Margaritas</a>
+- <a href="https://nrw-moodboard.vercel.app/">NRW Moodboard</a>
 
 <!--
 icons : https://github.com/Ileriayo/markdown-badges
