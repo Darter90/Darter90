@@ -33,7 +33,7 @@ Many says that I'm like a panda... so am I :panda_face: .
   
 - <a href="https://the-margaritas.vercel.app/">The Margaritas</a>
 - <a href="https://nrw-moodboard.vercel.app/">NRW Moodboard</a>
-  - <a href="https://audio-visualizer-phi.vercel.app/">Retro Visualizer</a>
+- <a href="https://audio-visualizer-phi.vercel.app/">Retro Visualizer</a>
 
 <!--
 icons : https://github.com/Ileriayo/markdown-badges
