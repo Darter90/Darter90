@@ -1,4 +1,4 @@
-<img src="image.png" alt="Darter90/Jacopo Carosi's GitHub/Gitlab Hero image" width="1920" height="270"/>
+<img src="image2.png" alt="Darter90/Jacopo Carosi's GitHub/Gitlab Hero image" width="1920" height="270"/>
 
 Welcome to my profile page; I'm Carosi Jacopo, but since the Internet exists I've been <strong>Darter90</strong>.</br>
 
